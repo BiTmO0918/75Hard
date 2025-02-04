@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216812755643",
+    "project_id": "cmu-75hard",
+    "storage_bucket": "cmu-75hard.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216812755643:android:eb6cfa8fd0bb86d38e279e",
+        "android_client_info": {
+          "package_name": "com.cmu.a75hard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOQttdrufqDEzjIB24IgGFmyp96y0gwpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
